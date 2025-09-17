@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joyeta Ray</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A Passionate Software Engineering Student</h3>
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyeta28&label=Profile%20views&color=0e75b6&style=flat" alt="joyeta28" /> </p>
 
-- 💬 Ask me about **JAVA,C++,OOP**
+- 💬 Ask me about **JAVA,C++,OOP,HTML,CSS**
 
 - 📫 How to reach me **joyeeroy484@gmail.com**
 
